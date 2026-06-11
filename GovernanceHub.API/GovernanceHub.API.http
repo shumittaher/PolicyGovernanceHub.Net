@@ -1,0 +1,6 @@
+@GovernanceHub.API_HostAddress = http://localhost:5228
+
+GET {{GovernanceHub.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

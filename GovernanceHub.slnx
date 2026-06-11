@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="GovernanceHub.API/GovernanceHub.API.csproj" />
+  <Project Path="GovernanceHub.Application/GovernanceHub.Application.csproj" />
+  <Project Path="GovernanceHub.Domain/GovernanceHub.Domain.csproj" />
+  <Project Path="GovernanceHub.Infrastructure/GovernanceHub.Infrastructure.csproj" />
+  <Project Path="GovernanceHub.Tests/GovernanceHub.Tests.csproj" />
+</Solution>
